@@ -1,0 +1,17 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\bin\Debug\net7.0-windows\Клавиатура.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\bin\Debug\net7.0-windows\Клавиатура.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\bin\Debug\net7.0-windows\Клавиатура.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\bin\Debug\net7.0-windows\Клавиатура.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\bin\Debug\net7.0-windows\Клавиатура.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\refint\Клавиатура.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\Клавиатура.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\Клавиатура\obj\Debug\net7.0-windows\ref\Клавиатура.dll
