@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOAmIPBVTjo/pLzsEfRb6faYXkcv1D1C4T5uCNoyQu5J89QBILgWgAmp7EQBsStm8i19ylxg8lbxaodTy5wv9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User.DESKTOP-APSRJKR\\OneDrive\\Рабочий стол\\Будильник_1\\Будильник_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\User.DESKTOP-APSRJKR\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
