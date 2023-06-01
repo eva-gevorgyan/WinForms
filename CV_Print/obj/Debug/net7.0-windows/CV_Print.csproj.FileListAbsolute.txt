@@ -1,0 +1,17 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\bin\Debug\net7.0-windows\CV_Print.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\bin\Debug\net7.0-windows\CV_Print.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\bin\Debug\net7.0-windows\CV_Print.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\bin\Debug\net7.0-windows\CV_Print.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\bin\Debug\net7.0-windows\CV_Print.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\refint\CV_Print.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\CV_Print.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\CV_Print\obj\Debug\net7.0-windows\ref\CV_Print.dll
