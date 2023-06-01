@@ -1,0 +1,34 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\bin\Debug\net7.0-windows\x&o.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\bin\Debug\net7.0-windows\x&o.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\bin\Debug\net7.0-windows\x&o.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\bin\Debug\net7.0-windows\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\bin\Debug\net7.0-windows\x&o.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x_o.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\refint\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\x&o.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\x&o\obj\Debug\net7.0-windows\ref\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\bin\Debug\net7.0-windows\x&o.exe
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\bin\Debug\net7.0-windows\x&o.deps.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\bin\Debug\net7.0-windows\x&o.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\bin\Debug\net7.0-windows\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\bin\Debug\net7.0-windows\x&o.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x_o.Form1.resources
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\refint\x&o.dll
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.pdb
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\x&o.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\OneDrive\Рабочий стол\x&o\obj\Debug\net7.0-windows\ref\x&o.dll
